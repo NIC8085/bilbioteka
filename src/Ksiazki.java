@@ -5,7 +5,6 @@ public class Ksiazki {
     private int iloscStron;
     private double cena;
     private Autorzy autor;
-
     public Ksiazki(String tytul, String kategoria, String datawydania, int iloscStron, double cena, Autorzy autor) {
         this.tytul = tytul;
         this.kategoria = kategoria;
