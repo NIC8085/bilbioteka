@@ -8,7 +8,6 @@ public class Autorzy {
         this.nazwisko = nazwisko;
         this.dataurodzenia = dataurodzenia;
     }
-
     public String getImie() {
         return imie;
     }

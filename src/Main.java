@@ -46,7 +46,6 @@ public class Main {
             znajdz();
         }
     }
-
     public static void dodaj(){
         System.out.println("Podaj tytul:");
         tytul = "";
